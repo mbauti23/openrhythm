@@ -1,6 +1,6 @@
 # open_rhythm
 
-A new Flutter application.
+An Android Rhythm game with .chart file parsing in order to create a falling note style arcade tapping experience.
 
 ## Getting Started
 
